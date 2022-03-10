@@ -68,4 +68,4 @@
 
 
 ### تم تطوير السورس بواسطة
-<a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Sonic-blue.svg?style=for-the-badge&logo=Aboelmagd"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ayad-blue.svg?style=for-the-badge&logo=Ayad"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Mahmoud-blue.svg?style=for-the-badge&logo=Mahmoud"></a>
+<a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a>
